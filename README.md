@@ -1,4 +1,6 @@
 <div align="center">
+![Uploading 439ccb13ab20a02b4dc17583e02cdbec.png…]()
+
 
 # EpicAI
 
